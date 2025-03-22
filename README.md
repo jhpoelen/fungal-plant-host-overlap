@@ -1,6 +1,6 @@
 # MicrobeNetNet Prototype - Common Plant Taxa Across Databases 
 
-Host plant overlap between known plant-fungal datasets as seen from the perspective of GloBI's [name alignment](https://big-bee-network.github.io/name-alignment-workshop/) and data review process (e.g., see the [maarjAM](https://depot.globalbioticinteractions/reviews/globalbioticineractions/maarjam), [fred](https://depot.globalbioticinteractions/fred), [mycoportal](https://depot.globalbioticinteractions/mycoportal), and [usda-fungal-host](https://depot.globalbioticinteractions/usda-fungal-host) review pages).  
+Host plant overlap between known plant-fungal datasets as seen from the perspective of GloBI's [name alignment](https://big-bee-network.github.io/name-alignment-workshop/) and data review process (e.g., see the [maarjAM](https://depot.globalbioticinteractions/reviews/globalbioticinteractions/maarjam), [fred](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/fred), [mycoportal](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/mycoportal), and [usda-fungus-host](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/usda-fungus-host) review pages).  
 
 Overall strategy: re-use published name alignments, establish overlap between datasets, share distinct taxonomic names per datasets as well as pairwise intersections (or overlap). 
 
