@@ -13,11 +13,14 @@ Agrostis
 Agrostis capillaris
 Agrostis gigantea
 Agrostis perennans
+Agrostis rudis
+Agrostis scabra
 Agrostis stolonifera
 Ajuga
 Ajuga reptans
 Alantsilodendron
 Alantsilodendron pilosum
+Alismataceae
 Alismatales
 Allium
 Allium bidentatum
@@ -60,6 +63,8 @@ Araucariales
 Arecaceae
 Arecales
 Aristida
+Arrhenatherum
+Arrhenatherum elatius
 Artemisia
 Artemisia alba
 Artemisia alba  subsp. alba
@@ -127,11 +132,14 @@ Bryophytes
 Burseraceae
 Buxaceae
 Buxales
+Cajanus
 Calamagrostis
 Calamagrostis acutiflora
 Calamagrostis angustifolia
 Calamagrostis arundinacea
 Calamagrostis purpurea
+Calluna
+Calluna vulgaris
 Caltha
 Caltha palustris
 Calystegia
@@ -164,6 +172,7 @@ Chamaecyparis obtusa
 Chloris
 Chondrosum
 Chondrosum gracile
+Cirsium
 Cistaceae
 Cistus
 Clethra
@@ -201,6 +210,9 @@ Cymbopogon nardus
 Cynosurus
 Cynosurus cristatus
 Cynosurus echinatus
+Cyperaceae
+Dacrycarpus
+Dacrycarpus dacrydioides
 Dactylis
 Dactylis glomerata
 Daucus
@@ -216,6 +228,7 @@ Dicranopteris
 Dicranopteris linearis
 Digitaria
 Digitaria sanguinalis
+Dioscorea
 Dioscoreaceae
 Dioscoreales
 Dipsacales
@@ -240,6 +253,7 @@ Epilobium angustifolium
 Eragrostis
 Ericaceae
 Ericales
+Ericoideae
 Erigeron
 Erigeron bonariensis
 Erigeron canadensis
@@ -325,13 +339,17 @@ Inula acuminata
 Inula salicina
 Ipomoea
 Jacobaea
+Jacobaea vulgaris
 Juglandaceae
 Juglans
 Juncaceae
+Juncus
 Juniperus
 Juniperus communis
 Juniperus rigida
 Justicia
+Knautia
+Knautia arvensis
 Koeleria
 Koeleria macrantha
 Lamiaceae
@@ -436,6 +454,7 @@ Phoenix
 Phoenix dactylifera
 Phragmites
 Phragmites australis
+Phrymaceae
 Phyllanthaceae
 Phyllanthus
 Pilosella
@@ -449,6 +468,7 @@ Plantaginaceae
 Plantago
 Plantago cornuti
 Plantago lanceolata
+Plantago major
 Plantago media
 Plectranthus
 Poa
@@ -552,12 +572,15 @@ Selaginellales
 Selaginella selaginoides
 Senecio
 Senna
+Sequoiadendron
+Sequoiadendron giganteum
 Seriphidium
 Seriphidium caerulescens
 Sesleria
 Sesleria caerulea
 Setaria
 Setaria pumila
+Silene
 Smilacaceae
 Smilax
 Solanaceae
@@ -609,6 +632,7 @@ Trifolium alpestre
 Trifolium incarnatum
 Trifolium pratense
 Trifolium repens
+Trifolium subterraneum
 Triticum
 Triticum aestivum
 Urticaceae

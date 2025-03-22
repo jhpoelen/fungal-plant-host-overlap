@@ -67,7 +67,7 @@ count(distinct(plant taxon names in both dataset A and dataset B))
 
 dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
 --- | --- | --- | --- | ---
-maarjam | - | [1,217](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [656](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,217](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [974](output/maarjam-intersect-usda-fungus-host.txt)
+maarjam | - | [1,280](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [680](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,280](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [1,020](output/maarjam-intersect-usda-fungus-host.txt)
 fred | - | - | [6,927](output/fred-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [5,062](output/fred-intersect-mycoportal.txt) | [6,927](output/fred-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [5,881](output/fred-intersect-usda-fungus-host.txt)
 mycoportal | - | - | - | [33,273](output/mycoportal-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [27,474](output/mycoportal-intersect-usda-fungus-host.txt)
 usda-fungus-host | - | - | - | -
@@ -77,21 +77,18 @@ usda-fungus-host | - | - | - | -
 A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 --- | --- | --- | --- | --- | ---
 [fred](output/fred-uniq.txt) | 6927 | [fred](output/fred-uniq.txt) | 6927 | [fred ∩ fred](output/fred-intersect-fred.txt) | 6927
-[fred](output/fred-uniq.txt) | 6927 | [maarjam](output/maarjam-uniq.txt) | 1217 | [fred ∩ maarjam](output/fred-intersect-maarjam.txt) | 656
+[fred](output/fred-uniq.txt) | 6927 | [maarjam](output/maarjam-uniq.txt) | 1280 | [fred ∩ maarjam](output/fred-intersect-maarjam.txt) | 680
 [fred](output/fred-uniq.txt) | 6927 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [fred ∩ mycoportal](output/fred-intersect-mycoportal.txt) | 5062
 [fred](output/fred-uniq.txt) | 6927 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [fred ∩ usda-fungus-host](output/fred-intersect-usda-fungus-host.txt) | 5881
-[maarjam](output/maarjam-uniq.txt) | 1217 | [fred](output/fred-uniq.txt) | 6927 | [maarjam ∩ fred](output/maarjam-intersect-fred.txt) | 656
-[maarjam](output/maarjam-uniq.txt) | 1217 | [maarjam](output/maarjam-uniq.txt) | 1217 | [maarjam ∩ maarjam](output/maarjam-intersect-maarjam.txt) | 1217
-[maarjam](output/maarjam-uniq.txt) | 1217 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam ∩ mycoportal](output/maarjam-intersect-mycoportal.txt) | 915
-[maarjam](output/maarjam-uniq.txt) | 1217 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam ∩ usda-fungus-host](output/maarjam-intersect-usda-fungus-host.txt) | 974
+[maarjam](output/maarjam-uniq.txt) | 1280 | [fred](output/fred-uniq.txt) | 6927 | [maarjam ∩ fred](output/maarjam-intersect-fred.txt) | 680
+[maarjam](output/maarjam-uniq.txt) | 1280 | [maarjam](output/maarjam-uniq.txt) | 1280 | [maarjam ∩ maarjam](output/maarjam-intersect-maarjam.txt) | 1280
+[maarjam](output/maarjam-uniq.txt) | 1280 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam ∩ mycoportal](output/maarjam-intersect-mycoportal.txt) | 960
+[maarjam](output/maarjam-uniq.txt) | 1280 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam ∩ usda-fungus-host](output/maarjam-intersect-usda-fungus-host.txt) | 1020
 [mycoportal](output/mycoportal-uniq.txt) | 33273 | [fred](output/fred-uniq.txt) | 6927 | [mycoportal ∩ fred](output/mycoportal-intersect-fred.txt) | 5062
-[mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam](output/maarjam-uniq.txt) | 1217 | [mycoportal ∩ maarjam](output/mycoportal-intersect-maarjam.txt) | 915
+[mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam](output/maarjam-uniq.txt) | 1280 | [mycoportal ∩ maarjam](output/mycoportal-intersect-maarjam.txt) | 960
 [mycoportal](output/mycoportal-uniq.txt) | 33273 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [mycoportal ∩ mycoportal](output/mycoportal-intersect-mycoportal.txt) | 33273
 [mycoportal](output/mycoportal-uniq.txt) | 33273 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [mycoportal ∩ usda-fungus-host](output/mycoportal-intersect-usda-fungus-host.txt) | 27474
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [fred](output/fred-uniq.txt) | 6927 | [usda-fungus-host ∩ fred](output/usda-fungus-host-intersect-fred.txt) | 5881
-[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam](output/maarjam-uniq.txt) | 1217 | [usda-fungus-host ∩ maarjam](output/usda-fungus-host-intersect-maarjam.txt) | 974
+[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam](output/maarjam-uniq.txt) | 1280 | [usda-fungus-host ∩ maarjam](output/usda-fungus-host-intersect-maarjam.txt) | 1020
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [usda-fungus-host ∩ mycoportal](output/usda-fungus-host-intersect-mycoportal.txt) | 27474
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
-
-
-
