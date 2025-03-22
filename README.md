@@ -31,7 +31,7 @@ bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 
 ## Pairwise Overlap
 
-A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
+A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 --- | --- | --- | --- | --- | ---
 [fred](output/fred-uniq.txt) | 6927 | [fred](output/fred-uniq.txt) | 6927 | [fred ∩ fred](output/fred-intersect-fred.txt) | 6927
 [fred](output/fred-uniq.txt) | 6927 | [maarjam](output/maarjam-uniq.txt) | 1217 | [fred ∩ maarjam](output/fred-intersect-maarjam.txt) | 656

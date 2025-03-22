@@ -4,7 +4,7 @@
 
 datasets="$@"
 
-echo "A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)"
+echo "A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)"
 echo "--- | --- | --- | --- | --- | ---"
 for x in $datasets
 do
