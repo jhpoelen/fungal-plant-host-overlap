@@ -1,5 +1,7 @@
 # MicrobeNetNet Prototype - Common Plant Taxa Across Databases 
 
+:warning: This is a work in progress :warning:
+
 Host plant overlap between known plant-fungal datasets as seen from the perspective of GloBI's [name alignment](https://big-bee-network.github.io/name-alignment-workshop/) and data review process (e.g., see the [maarjAM](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/maarjam), [fred](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/fred), [mycoportal](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/mycoportal), and [usda-fungus-host](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/usda-fungus-host) review pages).  
 
 Overall strategy: re-use published name alignments, establish overlap between datasets, share distinct taxonomic names per datasets as well as pairwise intersections (or overlap). 
@@ -55,8 +57,8 @@ Another perspective: symmetric matrix overlap in names
 
 dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
 --- | --- | --- | --- | ---
-maarjam | - | 1,217 ∩ 6,927 = 656 | 1,217 ∩ 33,273 = 915 | 1,217 ∩ 48,418 = 974
-fred | - | - | 6,927 ∩ 33,273 = 5,062 | 6,927 ∩ 48,418 = 5,881
-mycoportal | - | - | - | 33,273 ∩ 48,418 = 27474
+maarjam | - | [1,217](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [656](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,217](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [974](output/maarjam-intersect-usda-fungus-host.txt)
+fred | - | - | [6,927](output/fred-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [5,062](output/fred-intersect-mycoportal.txt) | [6,927](output/fred-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [5,881](output/fred-intersect-usda-fungus-host.txt)
+mycoportal | - | - | - | [33,273](output/mycoportal-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [27,474](output/mycoportal-intersect-usda-fungus-host.txt)
 usda-fungus-host | - | - | - | -
 
