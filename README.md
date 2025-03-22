@@ -21,7 +21,6 @@ Step 3. Calculate pairwise overlap table
 bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 ```
 
-
 Result:
 
 A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
@@ -42,3 +41,14 @@ A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam](output/maarjam-uniq.txt) | 1217 | [usda-fungus-host ∩ maarjam](output/usda-fungus-host-intersect-maarjam.txt) | 974
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [usda-fungus-host ∩ mycoportal](output/usda-fungus-host-intersect-mycoportal.txt) | 27474
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
+
+
+Another perspective: symmetric matrics 
+
+ | maarjam | fred | mycoportal | usda-fungus-host
+--- | --- | --- | --- | ---
+maarjam | - | 1,217 ∩ 6,927 = 656 | 1217 ∩ 33,273 = 915 | 1,217 ∩ 48,418 = 974
+fred | - | - | 6,927 ∩ 33,273 = 5,062 | 6,927 ∩ 48,418 = 5,881
+mycoportal | - | - | - | 33,273 ∩ 48,418 = 27474
+usda-fungus-host | - | - | - | -
+
