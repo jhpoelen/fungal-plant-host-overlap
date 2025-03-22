@@ -21,7 +21,10 @@ ls -1 input/\
 ```
 In step 2., all distinct names in the taxonomic hierarchies of resolved names are treated as individual names. E.g., 
 
-```Angiosperms | Fagales | Fagaceae | Quercus | Quercus  subgen. Quercus | Quercus  sect. Quercus | Quercus alba``` 
+```
+Angiosperms | Fagales | Fagaceae | Quercus | Quercus  subgen. Quercus | Quercus  sect. Quercus | Quercus alba
+Angiosperms | Fagales | Fagaceae | Quercus | Quercus  subgen. Cerris | Quercus  sect. Ilex | Quercus phillyreoides
+```
 
 is translated to:
 
@@ -33,9 +36,12 @@ Quercus
 Quercus  subgen. Quercus
 Quercus  sect. Quercus
 Quercus alba 
+Quercus  subgen. Cerris
+Quercus  sect. Ilex
+Quercus phillyreoides
 ```
 
-which would result in 7 distinct taxonomic names. 
+which would result in 10 distinct taxonomic names, with overlap in the higher order taxonomic ranks (e.g., Quercus, Fagaceae). 
 
 Step 3. Calculate pairwise overlap table using [pairwise-overlap.sh](bin/pairwise-overlap.sh)
 
