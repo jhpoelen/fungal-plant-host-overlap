@@ -24,7 +24,10 @@ Step 3. Calculate pairwise overlap table using [pairwise-overlap.sh](bin/pairwis
 bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 ```
 
-Result:
+# Preliminary Results
+
+
+## Pairwise Overlap
 
 A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
 --- | --- | --- | --- | --- | ---
@@ -46,9 +49,11 @@ A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
 
 
+## Intersection Matrix
+
 Another perspective: symmetric matrix overlap in names 
 
- | maarjam | fred | mycoportal | usda-fungus-host
+dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
 --- | --- | --- | --- | ---
 maarjam | - | 1,217 ∩ 6,927 = 656 | 1,217 ∩ 33,273 = 915 | 1,217 ∩ 48,418 = 974
 fred | - | - | 6,927 ∩ 33,273 = 5,062 | 6,927 ∩ 48,418 = 5,881
