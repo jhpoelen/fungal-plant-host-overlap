@@ -53,7 +53,15 @@ bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 
 ## Plant Hostname Intersection Matrix
 
-Another perspective: symmetric matrix overlap in names 
+Another perspective: symmetric matrix overlap in names with notation: 
+
+```
+count(distinct(plant taxon names in dataset A)) 
+∩ 
+count(distinct(plant taxon names in Dataset B))
+= 
+count(distinct(plant taxon names in both dataset A and dataset B))
+```
 
 dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
 --- | --- | --- | --- | ---
