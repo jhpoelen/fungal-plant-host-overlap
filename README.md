@@ -29,7 +29,7 @@ bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 # Preliminary Results
 
 
-## Pairwise Overlap
+## Pairwise Overlap Plant Hostname 
 
 A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 --- | --- | --- | --- | --- | ---
@@ -51,7 +51,7 @@ A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
 
 
-## Intersection Matrix
+## Plant Hostname Intersection Matrix
 
 Another perspective: symmetric matrix overlap in names 
 
