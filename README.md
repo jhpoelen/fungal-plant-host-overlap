@@ -51,6 +51,16 @@ bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 
 # Preliminary Results
 
+## Plant Hostname Intersection Matrix
+
+Another perspective: symmetric matrix overlap in names 
+
+dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
+--- | --- | --- | --- | ---
+maarjam | - | [1,217](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [656](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,217](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [974](output/maarjam-intersect-usda-fungus-host.txt)
+fred | - | - | [6,927](output/fred-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [5,062](output/fred-intersect-mycoportal.txt) | [6,927](output/fred-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [5,881](output/fred-intersect-usda-fungus-host.txt)
+mycoportal | - | - | - | [33,273](output/mycoportal-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [27,474](output/mycoportal-intersect-usda-fungus-host.txt)
+usda-fungus-host | - | - | - | -
 
 ## Pairwise Overlap Plant Hostname 
 
@@ -74,14 +84,4 @@ A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
 
 
-## Plant Hostname Intersection Matrix
-
-Another perspective: symmetric matrix overlap in names 
-
-dataset/dataset | maarjam | fred | mycoportal | usda-fungus-host
---- | --- | --- | --- | ---
-maarjam | - | [1,217](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [656](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,217](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [974](output/maarjam-intersect-usda-fungus-host.txt)
-fred | - | - | [6,927](output/fred-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [5,062](output/fred-intersect-mycoportal.txt) | [6,927](output/fred-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [5,881](output/fred-intersect-usda-fungus-host.txt)
-mycoportal | - | - | - | [33,273](output/mycoportal-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [27,474](output/mycoportal-intersect-usda-fungus-host.txt)
-usda-fungus-host | - | - | - | -
 
