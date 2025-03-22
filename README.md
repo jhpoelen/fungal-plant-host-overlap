@@ -24,21 +24,21 @@ bin/pairwise-overlap.sh $(ls -1 input/ | grep -oE "^[a-z-]+" | tr '\n' ' ')
 
 Result:
 
-A | B | A ∩ B
---- | --- | ---
-[fred-wfo 6927](output/fred-wfo-uniq.txt) | [fred-wfo 6927](output/fred-wfo-uniq.txt) | [fred-wfo ∩ fred-wfo 6927](output/fred-wfo-intersect-fred-wfo.txt)
-[fred-wfo 6927](output/fred-wfo-uniq.txt) | [maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [fred-wfo ∩ maarjam-wfo 656](output/fred-wfo-intersect-maarjam-wfo.txt)
-[fred-wfo 6927](output/fred-wfo-uniq.txt) | [mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [fred-wfo ∩ mycoportal-wfo 5062](output/fred-wfo-intersect-mycoportal-wfo.txt)
-[fred-wfo 6927](output/fred-wfo-uniq.txt) | [usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [fred-wfo ∩ usda-fungus-host-wfo 5881](output/fred-wfo-intersect-usda-fungus-host-wfo.txt)
-[maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [fred-wfo 6927](output/fred-wfo-uniq.txt) | [maarjam-wfo ∩ fred-wfo 656](output/maarjam-wfo-intersect-fred-wfo.txt)
-[maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [maarjam-wfo ∩ maarjam-wfo 1217](output/maarjam-wfo-intersect-maarjam-wfo.txt)
-[maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [maarjam-wfo ∩ mycoportal-wfo 915](output/maarjam-wfo-intersect-mycoportal-wfo.txt)
-[maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [maarjam-wfo ∩ usda-fungus-host-wfo 974](output/maarjam-wfo-intersect-usda-fungus-host-wfo.txt)
-[mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [fred-wfo 6927](output/fred-wfo-uniq.txt) | [mycoportal-wfo ∩ fred-wfo 5062](output/mycoportal-wfo-intersect-fred-wfo.txt)
-[mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [mycoportal-wfo ∩ maarjam-wfo 915](output/mycoportal-wfo-intersect-maarjam-wfo.txt)
-[mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [mycoportal-wfo ∩ mycoportal-wfo 33273](output/mycoportal-wfo-intersect-mycoportal-wfo.txt)
-[mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [mycoportal-wfo ∩ usda-fungus-host-wfo 27474](output/mycoportal-wfo-intersect-usda-fungus-host-wfo.txt)
-[usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [fred-wfo 6927](output/fred-wfo-uniq.txt) | [usda-fungus-host-wfo ∩ fred-wfo 5881](output/usda-fungus-host-wfo-intersect-fred-wfo.txt)
-[usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [maarjam-wfo 1217](output/maarjam-wfo-uniq.txt) | [usda-fungus-host-wfo ∩ maarjam-wfo 974](output/usda-fungus-host-wfo-intersect-maarjam-wfo.txt)
-[usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [mycoportal-wfo 33273](output/mycoportal-wfo-uniq.txt) | [usda-fungus-host-wfo ∩ mycoportal-wfo 27474](output/usda-fungus-host-wfo-intersect-mycoportal-wfo.txt)
-[usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-uniq.txt) | [usda-fungus-host-wfo ∩ usda-fungus-host-wfo 48418](output/usda-fungus-host-wfo-intersect-usda-fungus-host-wfo.txt)
+A | distinct(A) | B | distinct(B) | A ∩ B | distinct (A ∩ B)
+--- | --- | --- | --- | --- | ---
+[fred](output/fred-uniq.txt) | 6927 | [fred](output/fred-uniq.txt) | 6927 | [fred ∩ fred](output/fred-intersect-fred.txt) | 6927
+[fred](output/fred-uniq.txt) | 6927 | [maarjam](output/maarjam-uniq.txt) | 1217 | [fred ∩ maarjam](output/fred-intersect-maarjam.txt) | 656
+[fred](output/fred-uniq.txt) | 6927 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [fred ∩ mycoportal](output/fred-intersect-mycoportal.txt) | 5062
+[fred](output/fred-uniq.txt) | 6927 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [fred ∩ usda-fungus-host](output/fred-intersect-usda-fungus-host.txt) | 5881
+[maarjam](output/maarjam-uniq.txt) | 1217 | [fred](output/fred-uniq.txt) | 6927 | [maarjam ∩ fred](output/maarjam-intersect-fred.txt) | 656
+[maarjam](output/maarjam-uniq.txt) | 1217 | [maarjam](output/maarjam-uniq.txt) | 1217 | [maarjam ∩ maarjam](output/maarjam-intersect-maarjam.txt) | 1217
+[maarjam](output/maarjam-uniq.txt) | 1217 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam ∩ mycoportal](output/maarjam-intersect-mycoportal.txt) | 915
+[maarjam](output/maarjam-uniq.txt) | 1217 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam ∩ usda-fungus-host](output/maarjam-intersect-usda-fungus-host.txt) | 974
+[mycoportal](output/mycoportal-uniq.txt) | 33273 | [fred](output/fred-uniq.txt) | 6927 | [mycoportal ∩ fred](output/mycoportal-intersect-fred.txt) | 5062
+[mycoportal](output/mycoportal-uniq.txt) | 33273 | [maarjam](output/maarjam-uniq.txt) | 1217 | [mycoportal ∩ maarjam](output/mycoportal-intersect-maarjam.txt) | 915
+[mycoportal](output/mycoportal-uniq.txt) | 33273 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [mycoportal ∩ mycoportal](output/mycoportal-intersect-mycoportal.txt) | 33273
+[mycoportal](output/mycoportal-uniq.txt) | 33273 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [mycoportal ∩ usda-fungus-host](output/mycoportal-intersect-usda-fungus-host.txt) | 27474
+[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [fred](output/fred-uniq.txt) | 6927 | [usda-fungus-host ∩ fred](output/usda-fungus-host-intersect-fred.txt) | 5881
+[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [maarjam](output/maarjam-uniq.txt) | 1217 | [usda-fungus-host ∩ maarjam](output/usda-fungus-host-intersect-maarjam.txt) | 974
+[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [mycoportal](output/mycoportal-uniq.txt) | 33273 | [usda-fungus-host ∩ mycoportal](output/usda-fungus-host-intersect-mycoportal.txt) | 27474
+[usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host](output/usda-fungus-host-uniq.txt) | 48418 | [usda-fungus-host ∩ usda-fungus-host](output/usda-fungus-host-intersect-usda-fungus-host.txt) | 48418
