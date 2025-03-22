@@ -19,6 +19,19 @@ ls -1 input/\
  | grep -oE "^[a-z-]+"\
  | parallel "cat input/{1}.tsv.gz | gunzip | bin/uniq-resolved-plant-names.sh > output/{1}-uniq.txt" 
 ```
+In step 2., all distinct names in the taxonomic hierarchies of resolved names are treated as individual names. E.g., ```Angiosperms | Fagales | Fagaceae | Quercus | Quercus  subgen. Quercus | Quercus  sect. Quercus | Quercus alba``` is translated to:
+
+```
+Angiosperms
+Fagales
+Fagaceae
+Quercus
+Quercus  subgen. Quercus
+Quercus  sect. Quercus
+Quercus alba 
+```
+
+which would result in 7 distinct taxonomic names. 
 
 Step 3. Calculate pairwise overlap table using [pairwise-overlap.sh](bin/pairwise-overlap.sh)
 
