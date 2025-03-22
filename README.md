@@ -6,6 +6,8 @@ Host plant overlap between known plant-fungal datasets as seen from the perspect
 
 Overall strategy: re-use published name alignments, establish overlap between datasets, share distinct taxonomic names per datasets as well as pairwise intersections (or overlap). 
 
+Outcome of discussions in afternoon session of MicrobeNet^Net Colloquium 2025-03-22 with participants (in alphabetical order by first name) - Aimee Classen, Jorrit Poelen, Luke McCormack, Maarja Öpik, Martin Nunez. 
+
 
 Step 1. Get The GloBI World of Flora Online Alignment Review for each dataset using [fetch.sh](bin/fetch.sh)
 ```
