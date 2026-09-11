@@ -1,0 +1,158 @@
+Acacia
+Aizoaceae
+Alismatales
+Allium
+Amaryllidaceae
+Ammophila
+Ammophila arenaria
+Angiosperms
+Anthoxanthum
+Anthoxanthum odoratum
+Apiaceae
+Apiales
+Apocynaceae
+Araceae
+Arachis
+Araucariales
+Arecaceae
+Arecales
+Artemisia
+Artemisia alba
+Artemisia alba  subsp. alba
+Artemisia campestris
+Artemisia ledebouriana
+Artemisia pubescens
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Astragalus
+Avena
+Avena sativa
+Brassicales
+Bromus
+Bromus biebersteinii
+Bromus inermis
+Campanulaceae
+Caryophyllales
+Casuarinaceae
+Cinnamomum
+Citrus
+Clusiaceae
+Cocos
+Colocasia
+Colocasia esculenta
+Combretaceae
+Convolvulaceae
+Coprosma
+Cupressaceae
+Cupressales
+Cynodon
+Cynodon dactylon
+Daucus
+Daucus carota
+Deschampsia
+Elymus
+Elymus repens
+Eragrostis
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Festuca
+Festuca arundinacea
+Festuca rubra
+Gentianales
+Glycine
+Glycine max
+Goodeniaceae
+Gymnosperms
+Hibiscus
+Hordeum
+Hordeum vulgare
+Ipomoea
+Juniperus
+Koeleria
+Lamiaceae
+Lamiales
+Lathyrus
+Lauraceae
+Laurales
+Leymus
+Liliaceae
+Liliales
+Lilium
+Lolium
+Lolium perenne
+Lotus
+Magnoliales
+Malpighiales
+Malus
+Malus domestica
+Malvaceae
+Malvales
+Manihot
+Manihot esculenta
+Medicago
+Medicago sativa
+Myrica
+Myricaceae
+Myrtaceae
+Myrtales
+Oleaceae
+Oryza
+Oryza sativa
+Oxalidales
+Paspalum
+Paspalum notatum
+Pennisetum
+Pennisetum clandestinum
+Pilosella
+Plantaginaceae
+Plantago
+Plantago lanceolata
+Poa
+Poaceae
+Poales
+Podocarpaceae
+Polypodiales
+Populus
+Prunus
+Prunus persica
+Pteridophytes
+Quercus
+Rhamnaceae
+Rosaceae
+Rosales
+Rubiaceae
+Rutaceae
+Salicaceae
+Salix
+Sapindales
+Scaevola
+Scolochloa
+Scolochloa festucacea
+Setaria
+Solanaceae
+Solanales
+Solanum
+Solanum americanum
+Solanum lycopersicum
+Solanum nigrum
+Solidago
+Sorghum
+Sorghum bicolor
+Sporobolus
+Syzygium
+Theobroma
+Theobroma cacao
+Thuja
+Trifolium
+Trifolium repens
+Triticum
+Triticum aestivum
+Urticaceae
+Zea
+Zea mays
+Zingiberales

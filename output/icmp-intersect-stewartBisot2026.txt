@@ -1,0 +1,36 @@
+Allium
+Amaryllidaceae
+Angiosperms
+Apiales
+Araucariales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Cinnamomum
+Cinnamomum camphora
+Cyperaceae
+Ericales
+Fabaceae
+Fabales
+Fagales
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiales
+Lauraceae
+Laurales
+Lupinus
+Oxalidales
+Plantaginaceae
+Poaceae
+Poales
+Prunus
+Ranunculaceae
+Ranunculales
+Robinia
+Robinia pseudoacacia
+Rosaceae
+Rosales
+Rubiaceae

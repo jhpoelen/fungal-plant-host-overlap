@@ -1,0 +1,166 @@
+Acacia
+Acacia dealbata
+Acacia lunata
+Actinidia
+Actinidiaceae
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araliaceae
+Araucariales
+Arecaceae
+Arecales
+Aristotelia
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Atherospermataceae
+Bambuseae
+Beilschmiedia
+Beilschmiedia tawa
+Bidens
+Bidens pilosa
+Bryophytes
+Bryopsida
+Carex
+Caryophyllaceae
+Caryophyllales
+Castanea
+Chamaecyparis
+Commelinaceae
+Commelinales
+Convolvulaceae
+Convolvulus
+Convolvulus arvensis
+Coprosma
+Cordyline
+Crossosomatales
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cynodon
+Cynodon dactylon
+Cyperaceae
+Cyperus
+Dactylis
+Dactylis glomerata
+Dicranaceae
+Dicranales
+Dicranidae
+Elaeocarpaceae
+Elaeocarpus
+Epacridoideae
+Ericaceae
+Ericales
+Ericoideae
+Eucalyptus
+Eucalyptus botryoides
+Eucalyptus globulus
+Euphorbia
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Ficus
+Geniostoma
+Gentianaceae
+Gentianales
+Gentianella
+Gymnosperms
+Hibiscus
+Hordeum
+Hordeum vulgare
+Juncaceae
+Juncus
+Lamiaceae
+Lamiales
+Larix
+Lauraceae
+Laurales
+Laurelia
+Laurelia novae-zelandiae
+Liliales
+Loganiaceae
+Malpighiales
+Malvaceae
+Malvales
+Mangifera
+Metrosideros
+Monimiaceae
+Moraceae
+Myrsine
+Myrtaceae
+Myrtales
+Nestegis
+Nothofagaceae
+Nothofagus
+Nothofagus fusca
+Oleaceae
+Onagraceae
+Orobanchaceae
+Orobanche
+Oxalidaceae
+Oxalidales
+Oxalis
+Pandanaceae
+Pandanales
+Persicaria
+Phragmites
+Phragmites australis
+Pinaceae
+Pinales
+Pinus
+Pinus nigra
+Pinus radiata
+Piper
+Piperaceae
+Piperales
+Pittosporaceae
+Pittosporum
+Plantaginaceae
+Plantago
+Poa
+Poaceae
+Poales
+Podocarpaceae
+Podocarpus
+Podocarpus totara
+Polygonaceae
+Polygonum
+Polypodiales
+Primulaceae
+Proteaceae
+Proteales
+Pseudotsuga
+Pseudotsuga menziesii
+Pteridophytes
+Quercus
+Quercus robur
+Quercus robur  subsp. brutia
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Rhododendron
+Rosales
+Rubiaceae
+Santalaceae
+Santalales
+Sapindales
+Saxifraga
+Saxifragaceae
+Saxifragales
+Solanales
+Sphagnaceae
+Sphagnales
+Sphagnopsida
+Sphagnum
+Syzygium
+Triticum
+Triticum aestivum
+Veronica
+Violaceae
+Zingiberaceae
+Zingiberales

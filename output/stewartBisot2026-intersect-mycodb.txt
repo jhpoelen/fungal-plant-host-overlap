@@ -1,0 +1,172 @@
+Acacia
+Acacia holosericea
+Acer
+Agrostis
+Agrostis gigantea
+Allium
+Allium ampeloprasum
+Allium cepa
+Allium obliquum
+Altingiaceae
+Amaranthaceae
+Amaryllidaceae
+Anacardiaceae
+Angiosperms
+Anthyllis
+Apiaceae
+Apiales
+Apocynaceae
+Araucariales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Astragalus
+Astragalus sinicus
+Bidens
+Boraginaceae
+Boraginales
+Brachypodium
+Brachypodium pinnatum
+Bromus
+Bromus biebersteinii
+Bromus inermis
+Cajanus
+Cajanus cajan
+Calamagrostis
+Caryophyllaceae
+Caryophyllales
+Citrus
+Citrus × aurantium
+Coffea
+Coffea arabica
+Convolvulaceae
+Cucumis
+Cucumis sativus
+Cucurbitaceae
+Cucurbitales
+Cupressaceae
+Cupressales
+Cupressus
+Cupressus atlantica
+Dianthus
+Ericales
+Erigeron
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Festuca
+Festuca rubra
+Fragaria
+Gentianales
+Gliricidia
+Gliricidia sepium
+Glycine
+Glycine max
+Gossypium
+Gossypium hirsutum
+Gymnosperms
+Hippocastanoideae
+Hordeum
+Hordeum vulgare
+Hyparrhenia
+Hyparrhenia dichroa
+Ipomoea
+Ipomoea batatas
+Juglandaceae
+Juglans
+Lactuca
+Lactuca sativa
+Lamiaceae
+Lamiales
+Lathyrus
+Lathyrus oleraceus
+Lauraceae
+Laurales
+Leymus
+Linaceae
+Linum
+Linum usitatissimum
+Liquidambar
+Lolium
+Lolium perenne
+Lolium rigidum
+Lotus
+Malpighiales
+Malvaceae
+Malvales
+Medicago
+Medicago sativa
+Medicago truncatula
+Melastomataceae
+Meliaceae
+Myrtaceae
+Myrtales
+Nicotiana
+Nicotiana tabacum
+Olea
+Oleaceae
+Olea europaea
+Oryza
+Oryza sativa
+Oxalidales
+Panicum
+Panicum sumatrense
+Panicum virgatum
+Phyllanthaceae
+Pinaceae
+Pinales
+Pinus
+Pinus ponderosa
+Plantaginaceae
+Plantago
+Plantago lanceolata
+Poaceae
+Poales
+Polygonaceae
+Populus
+Prosopis
+Prunella
+Prunella vulgaris
+Prunus
+Prunus persica
+Quercus
+Quercus  sect. Lobatae
+Quercus  subgen. Quercus
+Ranunculales
+Rosaceae
+Rosales
+Rubiaceae
+Rutaceae
+Salicaceae
+Salix
+Sapindaceae
+Sapindales
+Sapindoideae
+Saxifragales
+Solanaceae
+Solanales
+Solanum
+Solanum lycopersicum
+Solanum maglia
+Solanum tuberosum
+Solidago
+Sorghum
+Sorghum bicolor
+Trifolium
+Trifolium pratense
+Trifolium repens
+Trifolium subterraneum
+Triticum
+Triticum aestivum
+Triticum aethiopicum
+Triticum durum
+Triticum turgidum
+Vachellia
+Vachellia nilotica
+Vicia
+Zea
+Zea mays
+Zygophyllaceae
+Zygophyllales

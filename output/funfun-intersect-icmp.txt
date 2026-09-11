@@ -1,0 +1,14 @@
+Angiosperms
+Arecaceae
+Arecales
+Asparagales
+Asteraceae
+Asterales
+Ericales
+Fabaceae
+Fabales
+Gentianales
+Lamiales
+Poaceae
+Poales
+Rubiaceae

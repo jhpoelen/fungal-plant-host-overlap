@@ -1,0 +1,358 @@
+Acacia
+Acacia auriculiformis
+Acacia holosericea
+Acer
+Acer pseudoplatanus
+Agrostis
+Agrostis capillaris
+Agrostis gigantea
+Agrostis stolonifera
+Albizia
+Allium
+Allium ampeloprasum
+Allium cepa
+Allium fistulosum
+Allium obliquum
+Alnus
+Alnus acuminata
+Alnus cordata
+Alnus incana
+Altingiaceae
+Amaranthaceae
+Amaryllidaceae
+Anacardiaceae
+Anacardium
+Anacardium occidentale
+Angiosperms
+Apiaceae
+Apiales
+Apium
+Apium graveolens
+Apocynaceae
+Arachis
+Arachis hypogaea
+Araucaria
+Araucariaceae
+Araucariales
+Asparagaceae
+Asparagales
+Asparagus
+Asparagus officinalis
+Asteraceae
+Asterales
+Astragalus
+Atriplex
+Azadirachta
+Azadirachta indica
+Berberidaceae
+Betula
+Betulaceae
+Betula pubescens
+Bidens
+Bignoniaceae
+Boraginaceae
+Boraginales
+Brachypodium
+Brachypodium pinnatum
+Bromeliaceae
+Bromus
+Bromus biebersteinii
+Bromus inermis
+Cajanus
+Cajanus cajan
+Calamagrostis
+Calamagrostis epigejos
+Calliandra
+Cannabaceae
+Capsicum
+Capsicum annuum
+Caryophyllaceae
+Caryophyllales
+Castanopsis
+Cedrela
+Chloris
+Chloris gayana
+Cicer
+Cicer arietinum
+Citrus
+Citrus × aurantium
+Citrus limon
+Coffea
+Coffea arabica
+Convolvulaceae
+Cordia
+Cucumis
+Cucumis sativus
+Cucurbitaceae
+Cucurbitales
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cupressus
+Cyamopsis
+Cyamopsis tetragonoloba
+Cymbopogon
+Dalbergia
+Decaspermum
+Decaspermum blancoi
+Desmodium
+Dipterocarpaceae
+Dipterocarpoideae
+Elaeagnaceae
+Eleusine
+Eleusine coracana
+Eragrostis
+Ericales
+Erigeron
+Eucalyptus
+Eucalyptus globulus
+Eucalyptus grandis
+Eucalyptus miniata
+Eucalyptus pellita
+Eucalyptus urophylla
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Festuca
+Festuca rubra
+Fragaria
+Fragaria × ananassa
+Fragaria ananassa
+Fraxinus
+Fraxinus excelsior
+Gentianales
+Gliricidia
+Gliricidia sepium
+Glycine
+Glycine max
+Gossypium
+Gossypium hirsutum
+Gymnosperms
+Handroanthus
+Helianthus
+Helianthus annuus
+Hevea
+Hevea brasiliensis
+Hippocastanoideae
+Hippophae
+Holcus
+Holcus lanatus
+Hordeum
+Hordeum vulgare
+Hyparrhenia
+Hyparrhenia dichroa
+Ipomoea
+Ipomoea batatas
+Juglandaceae
+Juglans
+Lactuca
+Lactuca sativa
+Lactuca serriola
+Lamiaceae
+Lamiales
+Lathyrus
+Lathyrus oleraceus
+Lauraceae
+Laurales
+Leymus
+Linaceae
+Linum
+Linum usitatissimum
+Liquidambar
+Liquidambar styraciflua
+Litchi
+Litchi chinensis
+Lolium
+Lolium perenne
+Lotus
+Lotus dorycnium
+Malpighiales
+Malvaceae
+Malvales
+Manihot
+Manihot esculenta
+Medicago
+Medicago sativa
+Melastomataceae
+Meliaceae
+Moraceae
+Morus
+Morus alba
+Musa
+Musa acuminata
+Musaceae
+Myrsine
+Myrtaceae
+Myrtales
+Myrtus
+Myrtus communis
+Nicotiana
+Nicotiana tabacum
+Nothofagaceae
+Nothofagus
+Nothofagus dombeyi
+Ocimum
+Ocimum basilicum
+Olea
+Oleaceae
+Olea europaea
+Origanum
+Origanum vulgare
+Oryza
+Oryza sativa
+Ostryopsis
+Ostryopsis davidiana
+Oxalidales
+Panicum
+Panicum sumatrense
+Panicum virgatum
+Papaver
+Papaveraceae
+Papavereae
+Papaveroideae
+Pedaliaceae
+Persea
+Persea americana
+Phaseolus
+Phaseolus vulgaris
+Phyllanthaceae
+Picea
+Picea abies
+Picea glauca
+Pinaceae
+Pinales
+Pinus
+Pinus banksiana
+Pinus contorta
+Pinus densiflora
+Pinus elliottii
+Pinus halepensis
+Pinus hartwegii
+Pinus jeffreyi
+Pinus kesiya
+Pinus kesiya  var. langbianensis
+Pinus koraiensis
+Pinus lambertiana
+Pinus pinaster
+Pinus pinea
+Pinus ponderosa
+Pinus radiata
+Pinus resinosa
+Pinus strobus
+Pinus sylvestris
+Pinus taeda
+Pistacia
+Pistacia atlantica
+Pistacia vera
+Plantaginaceae
+Plantago
+Plantago lanceolata
+Plectranthus
+Pleroma
+Poaceae
+Poales
+Polygonaceae
+Populus
+Populus trichocarpa
+Primulaceae
+Prosopis
+Prunella
+Prunella vulgaris
+Prunus
+Prunus avium
+Prunus domestica
+Prunus persica
+Pseudotsuga
+Pseudotsuga menziesii
+Quercus
+Quercus alba
+Quercus helferiana
+Quercus ilex
+Quercus petraea
+Quercus pubescens
+Quercus robur
+Quercus robur  subsp. brutia
+Quercus rubra
+Quercus  sect. Cyclobalanopsis
+Quercus  sect. Ilex
+Quercus  sect. Lobatae
+Quercus  sect. Quercus
+Quercus  subgen. Cerris
+Quercus  subgen. Quercus
+Ranunculales
+Retama
+Retama sphaerocarpa
+Rhamnaceae
+Rhamnus
+Rosaceae
+Rosales
+Rubiaceae
+Rubus
+Rubus idaeus
+Rumex
+Rumex acetosa
+Rutaceae
+Saccharum
+Saccharum officinarum
+Salicaceae
+Salix
+Salix gmelinii
+Salsola
+Sapindaceae
+Sapindales
+Sapindoideae
+Saxifragales
+Senegalia
+Senna
+Senna siamea
+Sesamum
+Sesamum indicum
+Setaria
+Shorea
+Shoreae
+Solanaceae
+Solanales
+Solanum
+Solanum lycopersicum
+Solanum maglia
+Solanum tuberosum
+Solidago
+Sorghum
+Sorghum bicolor
+Spartium
+Spartium junceum
+Tagetes
+Tagetes erecta
+Tamarindus
+Tamarindus indica
+Tectona
+Tectona grandis
+Thymelaeaceae
+Trema
+Trifolium
+Trifolium pratense
+Trifolium repens
+Triticum
+Triticum aestivum
+Triticum durum
+Urticaceae
+Vachellia
+Veronica
+Vicia
+Vicia lens
+Vigna
+Vigna radiata
+Vigna unguiculata
+Vitaceae
+Vitales
+Vitis
+Vitis berlandieri
+Vitis vinifera
+Zea
+Zea mays
+Zingiberales
+Zinnia
+Zinnia elegans
+Ziziphus

@@ -1,0 +1,78 @@
+Acacia
+Albizia
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araucariaceae
+Araucariales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Bidens
+Caryophyllaceae
+Caryophyllales
+Convolvulaceae
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cupressus
+Dianthus
+Dianthus caryophyllus
+Eragrostis
+Ericales
+Eucalyptus
+Eucalyptus globulus
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiaceae
+Lamiales
+Lauraceae
+Laurales
+Malpighiales
+Malvaceae
+Malvales
+Moraceae
+Myrsine
+Myrtaceae
+Myrtales
+Nothofagaceae
+Nothofagus
+Oleaceae
+Orobanchaceae
+Oxalidales
+Pinaceae
+Pinales
+Pinus
+Pinus radiata
+Plantaginaceae
+Plantago
+Poaceae
+Poales
+Polygonaceae
+Primulaceae
+Pseudotsuga
+Pseudotsuga menziesii
+Quercus
+Quercus robur
+Quercus robur  subsp. brutia
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Rosales
+Rubiaceae
+Sapindales
+Saxifragales
+Solanales
+Triticum
+Triticum aestivum
+Veronica
+Zingiberales

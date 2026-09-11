@@ -1,0 +1,129 @@
+Acacia
+Albizia
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araliaceae
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asphodelaceae
+Asteraceae
+Asterales
+Barringtonia
+Beilschmiedia
+Beilschmiedia tawa
+Beta
+Bryophytes
+Bryopsida
+Carex
+Caryophyllaceae
+Caryophyllales
+Cocos
+Cocos nucifera
+Convolvulaceae
+Coprosma
+Cortaderia
+Crossosomatales
+Cupressaceae
+Cupressales
+Cynodon
+Cynodon dactylon
+Cyperaceae
+Dactylis
+Dactylis glomerata
+Dianthus
+Dianthus caryophyllus
+Dicranales
+Dicranidae
+Ericaceae
+Ericales
+Ericoideae
+Eucalyptus
+Euphorbia
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Ficus
+Gentianaceae
+Gentianales
+Gymnosperms
+Hibiscus
+Hoheria
+Hordeum
+Hordeum vulgare
+Lamiaceae
+Lamiales
+Lauraceae
+Laurales
+Lecythidaceae
+Liliales
+Malpighiales
+Malvaceae
+Malvales
+Mangifera
+Melicytus ramiflorus
+Moraceae
+Myrtaceae
+Myrtales
+Nymphaea
+Nymphaea alba
+Nymphaeaceae
+Nymphaeales
+Oleaceae
+Orobanchaceae
+Orobanche
+Pennisetum
+Phormium
+Phragmites
+Phragmites australis
+Pinaceae
+Pinales
+Pinus
+Pinus nigra
+Pinus radiata
+Piper
+Piperaceae
+Piperales
+Plantaginaceae
+Poa
+Poaceae
+Poales
+Polypodiales
+Primulaceae
+Proteaceae
+Proteales
+Pseudotsuga
+Pseudotsuga menziesii
+Pteridophytes
+Quercus
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Rhododendron
+Rhopalostylis
+Rosales
+Rubiaceae
+Santalaceae
+Santalales
+Sapindales
+Saxifragales
+Schefflera
+Solanales
+Sphagnaceae
+Sphagnales
+Sphagnopsida
+Sphagnum
+Triticum
+Triticum aestivum
+Ulex
+Ulex europaeus
+Veronica
+Zingiberaceae
+Zingiberales

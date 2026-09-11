@@ -1,0 +1,44 @@
+Allium
+Amaryllidaceae
+Angiosperms
+Apiales
+Araucaria
+Araucariaceae
+Araucariales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Cunoniaceae
+Ericales
+Fabaceae
+Fabales
+Fagales
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiales
+Lauraceae
+Laurales
+Myrsine
+Nothofagaceae
+Nothofagus
+Oxalidales
+Plantaginaceae
+Poaceae
+Poales
+Primulaceae
+Prunus
+Ranunculales
+Rosaceae
+Rosales
+Rubiaceae
+Spartium
+Spartium junceum
+Urticaceae
+Veronica
+Vitaceae
+Vitales
+Vitis
+Vitis vinifera

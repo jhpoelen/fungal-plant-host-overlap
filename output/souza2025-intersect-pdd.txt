@@ -1,0 +1,84 @@
+Acacia
+Agathis
+Angiosperms
+Apiaceae
+Apiales
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Caryophyllales
+Cocos
+Convolvulaceae
+Coprosma
+Coprosma robusta
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cupressus
+Cyatheaceae
+Cyatheales
+Cynodon
+Cynodon dactylon
+Dactylis
+Dactylis glomerata
+Eragrostis
+Eucalyptus
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Gentianales
+Griselinia
+Griseliniaceae
+Griselinia littoralis
+Gymnosperms
+Hibiscus
+Hordeum
+Hordeum vulgare
+Kunzea
+Kunzea ericoides
+Lamiaceae
+Lamiales
+Lauraceae
+Laurales
+Leptospermum
+Leptospermum scoparium
+Liliales
+Malpighiales
+Malvaceae
+Malvales
+Myrtaceae
+Myrtales
+Oleaceae
+Oxalidales
+Pennisetum
+Pennisetum clandestinum
+Piper
+Piperaceae
+Piperales
+Plantaginaceae
+Plantago
+Poa
+Poaceae
+Poales
+Podocarpaceae
+Polypodiales
+Pteridophytes
+Quercus
+Quercus  subgen. Quercus
+Rosales
+Rubiaceae
+Sapindales
+Solanales
+Syzygium
+Triticum
+Triticum aestivum
+Weinmannia
+Weinmannia racemosa
+Zingiberales

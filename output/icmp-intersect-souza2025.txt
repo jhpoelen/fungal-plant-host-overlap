@@ -1,0 +1,39 @@
+Agathis
+Agathis robusta
+Allium
+Amaryllidaceae
+Angiosperms
+Apiales
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Cinnamomum
+Cinnamomum camphora
+Coprosma
+Cunoniaceae
+Fabaceae
+Fabales
+Fagales
+Gentianales
+Griselinia
+Griseliniaceae
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiales
+Lauraceae
+Laurales
+Oxalidales
+Plantaginaceae
+Poaceae
+Poales
+Prunus
+Rosaceae
+Rosales
+Rubiaceae
+Urticaceae

@@ -1,0 +1,184 @@
+Acacia
+Afrocarpus
+Alismatales
+Allium
+Amaryllidaceae
+Ammophila
+Ammophila arenaria
+Ammophila breviligulata
+Angiopteris
+Angiosperms
+Apiaceae
+Apiales
+Apocynaceae
+Araceae
+Arachis
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Artemisia
+Artemisia alba
+Artemisia alba  subsp. alba
+Artemisia campestris
+Artemisia ledebouriana
+Artemisia pubescens
+Asparagaceae
+Asparagales
+Asparagus
+Asparagus officinalis
+Aspleniaceae
+Asplenium
+Asteraceae
+Asterales
+Astragalus
+Avena
+Brassicales
+Bromus
+Bromus inermis
+Campanulaceae
+Caryophyllales
+Casuarina
+Casuarinaceae
+Casuarina equisetifolia
+Cinnamomum
+Cinnamomum camphora
+Citrus
+Clusia
+Clusiaceae
+Cocos
+Coffea
+Coffea arabica
+Combretaceae
+Convolvulaceae
+Cryptomeria
+Cryptomeria japonica
+Cupressaceae
+Cupressales
+Cyatheaceae
+Cyatheales
+Dactylis
+Dactylis glomerata
+Danthonia
+Daucus
+Deschampsia
+Elymus
+Eragrostis
+Eucalyptus
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Festuca
+Festuca rubra
+Fraxinus
+Fraxinus americana
+Gentianales
+Glycine
+Glycine max
+Goodeniaceae
+Gymnosperms
+Hibiscus
+Ipomoea
+Juniperus
+Juniperus procera
+Koeleria
+Lamiaceae
+Lamiales
+Lathyrus
+Lauraceae
+Laurales
+Leptospermum
+Leymus
+Liliaceae
+Liliales
+Lilium
+Litsea
+Lobelia
+Lolium
+Lolium perenne
+Lotus
+Lotus corniculatus
+Lythraceae
+Magnoliales
+Malpighiales
+Malus
+Malus domestica
+Malvaceae
+Malvales
+Manihot
+Manihot esculenta
+Marattiaceae
+Marattiales
+Medicago
+Medicago sativa
+Myricaceae
+Myrtaceae
+Myrtales
+Nardus
+Nardus stricta
+Nyctaginaceae
+Oleaceae
+Oryza
+Oryza sativa
+Oxalidales
+Panicum
+Paspalum
+Pennisetum
+Pennisetum glaucum
+Phaseolus
+Phaseolus vulgaris
+Pilosella
+Pilosella officinarum
+Piper
+Piperaceae
+Piperales
+Plantaginaceae
+Plantago
+Plantago lanceolata
+Poa
+Poaceae
+Poales
+Podocarpaceae
+Polypodiales
+Populus
+Prunus
+Prunus persica
+Pteridophytes
+Quercus
+Quercus  sect. Lobatae
+Quercus  subgen. Quercus
+Rhamnaceae
+Rosaceae
+Rosales
+Rubiaceae
+Rutaceae
+Saccharum
+Salicaceae
+Salix
+Salix triandra
+Sapindales
+Sassafras
+Scaevola
+Setaria
+Solanaceae
+Solanales
+Solanum
+Solanum lycopersicum
+Solidago
+Sorghum
+Sorghum bicolor
+Sporobolus
+Tectona
+Tectona grandis
+Theobroma
+Theobroma cacao
+Trifolium
+Trifolium repens
+Triticum
+Triticum aestivum
+Urticaceae
+Zea
+Zea mays
+Zingiberales

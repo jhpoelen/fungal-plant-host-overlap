@@ -1,0 +1,167 @@
+Acacia
+Agathis
+Albizia
+Alsophila
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araliaceae
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asphodelaceae
+Asteraceae
+Asterales
+Austrostipa
+Beta
+Bidens
+Bidens pilosa
+Blechnaceae
+Blechnoideae
+Blechnum
+Bryophytes
+Bryopsida
+Carex
+Carex cespitosa
+Carex humilis
+Caryophyllaceae
+Caryophyllales
+Castanea
+Cenchrus
+Chamaecyparis
+Chamaecyparis lawsoniana
+Cocos
+Cocos nucifera
+Commelinaceae
+Commelinales
+Convolvulaceae
+Coprosma
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cupressus
+Cyatheaceae
+Cyatheales
+Cynodon
+Cynodon dactylon
+Cyperaceae
+Cyperus
+Cyperus rotundus
+Dactylis
+Dactylis glomerata
+Dicksonia
+Dicksoniaceae
+Dicranales
+Dicranidae
+Eleocharis
+Epacridoideae
+Eragrostis
+Ericaceae
+Ericales
+Ericoideae
+Eucalyptus
+Euphorbia
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Ficus
+Gentianaceae
+Gentianales
+Gymnosperms
+Hibiscus
+Hordeum
+Hordeum vulgare
+Juncaceae
+Juncus
+Lamiaceae
+Lamiales
+Lauraceae
+Laurales
+Lecythidaceae
+Leptospermum
+Leptospermum scoparium
+Liliales
+Malpighiales
+Malvaceae
+Malvales
+Mangifera
+Metasequoia
+Metrosideros
+Metrosideros umbellata
+Monimiaceae
+Moraceae
+Myrsine
+Myrtaceae
+Myrtales
+Oleaceae
+Olearia
+Onagraceae
+Orobanchaceae
+Oxalidaceae
+Oxalidales
+Oxalis
+Pennisetum
+Pennisetum clandestinum
+Persicaria
+Phragmites
+Phragmites australis
+Pinaceae
+Pinales
+Pinus
+Plantaginaceae
+Plantago
+Poa
+Poa annua
+Poaceae
+Poa infirma
+Poales
+Podocarpaceae
+Podocarpus
+Polygonaceae
+Polygonum
+Polypodiales
+Primulaceae
+Proteaceae
+Proteales
+Pteridophytes
+Pycreus
+Pycreus flavescens
+Quercus
+Quercus robur
+Quercus robur  subsp. brutia
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Rhododendron
+Rosales
+Rubiaceae
+Santalaceae
+Santalales
+Sapindales
+Saxifraga
+Saxifragaceae
+Saxifragales
+Solanales
+Sphagnaceae
+Sphagnales
+Sphagnopsida
+Sphagnum
+Syzygium
+Triticum
+Triticum aestivum
+Typhaceae
+Ulex
+Ulex europaeus
+Veronica
+Violaceae
+Vitex
+Weinmannia
+Weinmannia racemosa
+Zingiberaceae
+Zingiberales

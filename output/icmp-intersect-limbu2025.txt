@@ -1,0 +1,72 @@
+Agathis
+Allium
+Amaryllidaceae
+Angiosperms
+Apiales
+Araucaria
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Buxaceae
+Buxales
+Cinnamomum
+Cirsium
+Commelinaceae
+Commelinales
+Coprosma
+Cornaceae
+Cornales
+Cornus
+Cunoniaceae
+Cyperaceae
+Diospyros
+Ebenaceae
+Ericaceae
+Ericales
+Ericoideae
+Fabaceae
+Fabales
+Fagales
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiales
+Lauraceae
+Laurales
+Lupinus
+Lupinus arboreus
+Melilotus
+Myrsine
+Ononis
+Oxalidales
+Phoenix
+Plantaginaceae
+Poaceae
+Poales
+Primulaceae
+Proteaceae
+Proteales
+Prunus
+Prunus mume
+Ranunculaceae
+Ranunculales
+Rhododendron
+Robinia
+Robinia pseudoacacia
+Rosaceae
+Rosales
+Rubiaceae
+Ulex
+Ulex europaeus
+Urticaceae
+Veronica
+Vitaceae
+Vitales
+Vitis
+Vitis vinifera

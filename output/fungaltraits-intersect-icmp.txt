@@ -1,0 +1,91 @@
+Agathis
+Allium
+Amaryllidaceae
+Angiosperms
+Apiales
+Araucaria
+Araucariaceae
+Araucaria heterophylla
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asteraceae
+Asterales
+Chamaecytisus
+Cinnamomum
+Cinnamomum camphora
+Cirsium
+Clematis
+Clematis forsteri
+Commelinales
+Coprosma
+Cornaceae
+Cornales
+Cornus
+Cornus controversa
+Cornus sanguinea
+Cunoniaceae
+Cyperaceae
+Cytisus
+Cytisus scoparius
+Diospyros
+Diospyros kaki
+Ebenaceae
+Ericaceae
+Ericales
+Ericoideae
+Fabaceae
+Fabales
+Fagales
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Lamiales
+Lauraceae
+Laurales
+Lupinus
+Macadamia
+Melilotus
+Melilotus indicus
+Myrsine
+Nothofagaceae
+Nothofagus
+Nothofagus fusca
+Nothofagus menziesii
+Nothofagus truncata
+Ononis
+Ononis spinosa
+Oxalidales
+Phoenix
+Plantaginaceae
+Platanaceae
+Platanus
+Poaceae
+Poales
+Primulaceae
+Proteaceae
+Proteales
+Prunus
+Prunus mume
+Ranunculaceae
+Ranunculales
+Rhododendron
+Robinia
+Robinia pseudoacacia
+Rosaceae
+Rosales
+Rubiaceae
+Spartium
+Spartium junceum
+Ulex
+Ulex europaeus
+Urtica
+Urticaceae
+Veronica
+Vitaceae
+Vitales
+Vitis
+Vitis vinifera

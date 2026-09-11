@@ -1,0 +1,485 @@
+Abies
+Acacia
+Acanthaceae
+Acer
+Acer saccharum
+Achillea
+Achillea millefolium
+Agropyron
+Agrostis
+Agrostis capillaris
+Agrostis perennans
+Aizoaceae
+Albizia
+Alismatales
+Allium
+Alnus
+Alnus glutinosa
+Alopecurus
+Amaranthaceae
+Amaryllidaceae
+Ammophila
+Ammophila arenaria
+Amorphophallus
+Anacardiaceae
+Anemone
+Angiosperms
+Annonaceae
+Anthoxanthum
+Anthoxanthum odoratum
+Apiaceae
+Apiales
+Apocynaceae
+Aquifoliaceae
+Aquifoliales
+Araceae
+Arachis
+Arachis hypogaea
+Araliaceae
+Araucariales
+Arecaceae
+Arecales
+Aristida
+Arrhenatherum
+Arrhenatherum elatius
+Artemisia
+Artemisia austriaca
+Artemisia tridentata
+Artemisia vulgaris
+Artocarpus
+Arum
+Asclepias
+Asclepias speciosa
+Asparagaceae
+Asparagales
+Asphodelaceae
+Asphodelus
+Asphodelus ramosus
+Aster
+Asteraceae
+Asterales
+Astragalus
+Atriplex
+Atriplex cinerea
+Avena
+Avena sativa
+Barleria
+Begonia
+Begoniaceae
+Bellis
+Bellis annua
+Berberidaceae
+Berberis
+Beta
+Beta vulgaris
+Betulaceae
+Bidens
+Bidens pilosa
+Boraginaceae
+Boraginales
+Botrychioideae
+Botrychium
+Bouteloua
+Brachypodium
+Brachypodium distachyon
+Brassica
+Brassicaceae
+Brassicales
+Brassica napus
+Brassica rapa
+Briza
+Briza media
+Bromus
+Bromus biebersteinii
+Bromus inermis
+Burseraceae
+Calamagrostis
+Calamagrostis epigejos
+Camellia
+Camellia oleifera
+Camellia sinensis
+Campanulaceae
+Cannabaceae
+Caprifoliaceae
+Capsicum
+Capsicum annuum
+Cardamine
+Carex
+Carya
+Caryophyllaceae
+Caryophyllales
+Castanea
+Castanea mollissima
+Castanopsis
+Casuarinaceae
+Celastraceae
+Celastrales
+Centaurea
+Chamaecyparis
+Chloris
+Chromolaena
+Cicer
+Cicer arietinum
+Cinnamomum
+Cistaceae
+Citrullus
+Citrus
+Citrus × aurantium
+Citrus maxima
+Cocos
+Colocasia
+Colocasia esculenta
+Combretaceae
+Combretum
+Commelinales
+Convolvulaceae
+Coprosma
+Cornaceae
+Cornales
+Cornus
+Cucurbitaceae
+Cucurbitales
+Cunninghamia
+Cunninghamia lanceolata
+Cupressaceae
+Cupressales
+Cymbopogon
+Cynodon
+Cynodon dactylon
+Cyperaceae
+Cyperus
+Daucus
+Daucus carota
+Delphinium
+Dichanthium
+Dichondra
+Digitaria
+Dipsacales
+Dryopteridaceae
+Dryopteridoideae
+Dryopteris
+Echinochloa
+Echinochloa colona
+Echium
+Elephantopus
+Eleusine
+Elymus
+Elymus repens
+Epacridoideae
+Eragrostis
+Ericaceae
+Ericales
+Erigeron
+Erigeron annuus
+Eriobotrya
+Euphorbia
+Euphorbiaceae
+Euphorbia esula
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Festuca
+Festuca arundinacea
+Festuca idahoensis
+Festuca ovina
+Festuca rubra
+Galium
+Genista
+Genista cinerea
+Gentiana
+Gentianaceae
+Gentianales
+Gentiana straminea
+Geraniaceae
+Geraniales
+Geranium
+Geranium pratense
+Gerbera
+Glycine
+Glycine max
+Gymnosperms
+Hamamelidaceae
+Hedera
+Hedera helix
+Helichrysum
+Helictotrichon
+Hepatica
+Hepatica nobilis
+Hibiscus
+Hippocastanoideae
+Hordeum
+Hordeum vulgare
+Hydrocotyle
+Hyparrhenia
+Hyparrhenia dichroa
+Hypericaceae
+Hypericum
+Hypochaeris
+Ilex
+Ilex chinensis
+Ipomoea
+Ipomoea batatas
+Iridaceae
+Itea
+Iteaceae
+Juglandaceae
+Juncaceae
+Juncus
+Juniperus
+Knautia
+Knautia arvensis
+Kobresia
+Lamiaceae
+Lamiales
+Lathyrus
+Lathyrus oleraceus
+Lauraceae
+Laurales
+Lepidium
+Leucanthemum
+Leucanthemum vulgare
+Leucanthemum vulgare  subsp. vulgare
+Leymus
+Leymus chinensis
+Liliaceae
+Liliales
+Lilium
+Linnaea
+Litchi
+Litchi chinensis
+Lolium
+Lolium multiflorum
+Lolium perenne
+Lotus
+Lupinus
+Lysimachia
+Lysimachia arvensis
+Machilus
+Magnoliales
+Mallotus
+Malpighiales
+Malus
+Malus domestica
+Malvaceae
+Malvales
+Mangifera
+Mangifera indica
+Manihot
+Manihot esculenta
+Manilkara
+Manilkara zapota
+Medicago
+Medicago sativa
+Melanthiaceae
+Melastomataceae
+Meliaceae
+Mercurialis
+Metrosideros
+Monarda
+Moraceae
+Myrica
+Myricaceae
+Myrsine
+Myrtaceae
+Myrtales
+Neolitsea
+Nicotiana
+Oleaceae
+Ophioglossaceae
+Ophioglossales
+Oryza
+Oryza sativa
+Osmanthus
+Osmanthus fragrans
+Oxalidaceae
+Oxalidales
+Oxalis
+Pancratium
+Pancratium maritimum
+Paspalum
+Paspalum notatum
+Paxistima
+Paxistima myrsinites
+Pennisetum
+Pennisetum clandestinum
+Pentaphylacaceae
+Phragmites
+Phragmites australis
+Picea
+Picea engelmannii
+Pilosella
+Pinaceae
+Pinales
+Pinus
+Pinus contorta
+Pinus massoniana
+Pinus thunbergii
+Plantaginaceae
+Plantago
+Plantago lanceolata
+Platycladus
+Plectranthus
+Poa
+Poa annua
+Poaceae
+Poa infirma
+Poales
+Poa pratensis
+Podocarpaceae
+Podocarpus
+Polygalaceae
+Polygonaceae
+Polypodiaceae
+Polypodiales
+Populus
+Populus deltoides
+Portulaca
+Portulacaceae
+Potentilla
+Primulaceae
+Prosopis
+Proteaceae
+Proteales
+Prunella
+Prunella vulgaris
+Prunus
+Prunus persica
+Prunus salicina
+Psidium
+Pteridophytes
+Pulsatilla
+Quercus
+Quercus  sect. Cerris
+Quercus  subgen. Cerris
+Ranunculaceae
+Ranunculales
+Ranunculus
+Rhamnaceae
+Ricinus
+Ricinus communis
+Robinia
+Robinia pseudoacacia
+Rosa
+Rosaceae
+Rosales
+Rosmarinus
+Rosmarinus officinalis
+Rubiaceae
+Rubus
+Rumex
+Rumex acetosella
+Rutaceae
+Salicaceae
+Salix
+Salix alba
+Salix caprea
+Salix eriocephala
+Salix gmelinii
+Salix nigra
+Salix purpurea
+Salix viminalis
+Salvia
+Santalaceae
+Santalales
+Sapindaceae
+Sapindales
+Sapindoideae
+Sapotaceae
+Saxifraga
+Saxifragaceae
+Saxifragales
+Schima
+Schinus
+Schinus terebinthifolia
+Scolochloa
+Scolochloa festucacea
+Scorzoneroides
+Scorzoneroides autumnalis
+Selaginella
+Selaginellaceae
+Selaginellales
+Senecio
+Senegalia
+Senna
+Senna obtusifolia
+Setaria
+Setaria viridis
+Simaroubaceae
+Solanaceae
+Solanales
+Solanum
+Solanum americanum
+Solanum lycopersicum
+Solanum maglia
+Solanum nigrum
+Solanum tuberosum
+Solidago
+Solidago canadensis
+Sophora
+Sorghastrum
+Sorghum
+Sorghum bicolor
+Sporobolus
+Stachys
+Stachys sylvatica
+Stipa
+Styracaceae
+Suaeda
+Suaeda maritima
+Symphoricarpos
+Symphoricarpos albus
+Symphyotrichum
+Syzygium
+Tagetes
+Tamaricaceae
+Tamarix
+Tamarix aphylla
+Tanacetum
+Tanacetum vulgare
+Taraxacum
+Taraxacum officinale
+Thalictrum
+Theaceae
+Theobroma
+Theobroma cacao
+Thuja
+Thuja plicata
+Thymelaeaceae
+Thymus
+Toxicodendron
+Tragopogon
+Trifolium
+Trifolium pratense
+Trifolium repens
+Triticum
+Triticum aestivum
+Ulmaceae
+Ulmus
+Urticaceae
+Vachellia
+Verbena
+Verbenaceae
+Veronica
+Veronica spicata
+Vicia
+Vicia lens
+Vincetoxicum
+Vincetoxicum hirundinaria
+Viola
+Violaceae
+Vitaceae
+Vitales
+Vitex
+Vitex negundo
+Vitis
+Vitis vinifera
+Voyria
+Zea
+Zea mays
+Zingiber
+Zingiberaceae
+Zingiberales
+Zingiber officinale
+Zingiber  sect. Zingiber
+Ziziphus

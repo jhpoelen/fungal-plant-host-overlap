@@ -1,0 +1,253 @@
+Acacia
+Acacia dealbata
+Acacia lunata
+Aciphylla
+Actinidia
+Actinidiaceae
+Agathis
+Albizia
+Alcea
+Alcea rosea
+Alsophila
+Alsophila smithii
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araliaceae
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Aristotelia
+Asparagaceae
+Asparagales
+Asphodelaceae
+Asteraceae
+Asterales
+Atherospermataceae
+Barringtonia
+Beilschmiedia
+Beilschmiedia tarairi
+Beilschmiedia tawa
+Beta
+Bidens
+Bidens pilosa
+Blechnaceae
+Blechnoideae
+Blechnum
+Blechnum discolor
+Bothriochloa
+Brachyglottis
+Bryophytes
+Bryopsida
+Carex
+Carex cespitosa
+Carex humilis
+Carpodetus
+Caryophyllaceae
+Caryophyllales
+Castanea
+Cenchrus
+Chamaecyparis
+Chamaecyparis lawsoniana
+Cocos
+Cocos nucifera
+Colobanthus
+Commelinaceae
+Commelinales
+Convolvulaceae
+Convolvulus
+Convolvulus arvensis
+Coprosma
+Coprosma lucida
+Coprosma rhamnoides
+Cunoniaceae
+Cupressaceae
+Cupressales
+Cupressus
+Cyathea
+Cyatheaceae
+Cyathea dealbata
+Cyatheales
+Cynodon
+Cynodon dactylon
+Cyperaceae
+Cyperus
+Cyperus rotundus
+Dacrycarpus
+Dacrycarpus dacrydioides
+Dacrydium
+Dacrydium cupressinum
+Dactylis
+Dactylis glomerata
+Dianthus
+Dicksonia
+Dicksoniaceae
+Dracophyllum
+Elaeocarpaceae
+Elaeocarpus
+Elaeocarpus hookerianus
+Eleocharis
+Epacridoideae
+Eragrostis
+Ericaceae
+Ericales
+Ericoideae
+Eucalyptus
+Eucalyptus globulus
+Euphorbia
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Ficus
+Fuchsia
+Gahnia
+Gentianaceae
+Gentianales
+Gentianella
+Glyceria
+Glyceria notata
+Grewia
+Griselinia
+Griseliniaceae
+Griselinia littoralis
+Gymnosperms
+Hedycarya
+Hedycarya arborea
+Heteropogon
+Heteropogon contortus
+Hibiscus
+Hoheria
+Hordeum
+Hordeum vulgare
+Juncaceae
+Juncus
+Knightia
+Knightia excelsa
+Kunzea
+Kunzea ericoides
+Lamiaceae
+Lamiales
+Larix
+Lauraceae
+Laurales
+Laurelia
+Laurelia novae-zelandiae
+Lecythidaceae
+Leersia
+Leptospermum
+Leptospermum scoparium
+Liliales
+Loganiaceae
+Malpighiales
+Malvaceae
+Malvales
+Mangifera
+Melicytus ramiflorus
+Metasequoia
+Metrosideros
+Metrosideros umbellata
+Monimiaceae
+Moraceae
+Myrsine
+Myrsine australis
+Myrtaceae
+Myrtales
+Nectandra
+Nestegis
+Nothofagaceae
+Nothofagus
+Nothofagus fusca
+Nothofagus menziesii
+Nothofagus solandri
+Nymphaeaceae
+Nymphaeales
+Oleaceae
+Olearia
+Onagraceae
+Orobanchaceae
+Oxalidaceae
+Oxalidales
+Oxalis
+Paracryphiaceae
+Paracryphiales
+Pennisetum
+Pennisetum clandestinum
+Persicaria
+Persicaria lapathifolia
+Phragmites
+Phragmites australis
+Phyllocladus
+Phyllocladus trichomanoides
+Pinaceae
+Pinales
+Pinus
+Pinus nigra
+Pinus radiata
+Piper
+Piperaceae
+Piperales
+Pittosporaceae
+Pittosporum
+Pittosporum eugenioides
+Plantaginaceae
+Plantago
+Plantago triandra
+Poa
+Poa annua
+Poaceae
+Poa infirma
+Poales
+Podocarpaceae
+Podocarpus
+Podocarpus totara
+Polygonaceae
+Polygonum
+Polypodiales
+Primulaceae
+Proteaceae
+Proteales
+Prumnopitys
+Prumnopitys taxifolia
+Pseudotsuga
+Pseudotsuga menziesii
+Pteridophytes
+Quercus
+Quercus robur
+Quercus robur  subsp. brutia
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Quintinia
+Restionaceae
+Rhododendron
+Rhopalostylis
+Rosales
+Rousseaceae
+Rubiaceae
+Santalaceae
+Santalales
+Sapindales
+Saxifraga
+Saxifragaceae
+Saxifragales
+Schefflera
+Solanales
+Sparganium
+Syzygium
+Tradescantia
+Triticum
+Triticum aestivum
+Typhaceae
+Ulex
+Veronica
+Violaceae
+Vitex
+Vitex lucens
+Weinmannia
+Weinmannia racemosa
+Zingiberaceae
+Zingiberales

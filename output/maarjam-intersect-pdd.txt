@@ -1,0 +1,103 @@
+Amaranthaceae
+Anacardiaceae
+Angiosperms
+Apiaceae
+Apiales
+Araliaceae
+Araucariaceae
+Araucariales
+Arecaceae
+Arecales
+Asparagaceae
+Asparagales
+Asphodelaceae
+Asteraceae
+Asterales
+Austrostipa
+Bryophytes
+Caryophyllaceae
+Caryophyllales
+Cenchrus
+Chamaecyparis
+Cocos
+Cocos nucifera
+Commelinaceae
+Commelinales
+Convolvulaceae
+Cupressaceae
+Cupressales
+Cyperaceae
+Dacrycarpus
+Dacrycarpus dacrydioides
+Dactylis
+Dactylis glomerata
+Epacridoideae
+Eragrostis
+Ericaceae
+Ericales
+Ericoideae
+Euphorbia
+Euphorbiaceae
+Fabaceae
+Fabales
+Fagaceae
+Fagales
+Gentianaceae
+Gentianales
+Gymnosperms
+Hordeum
+Hordeum vulgare
+Juncaceae
+Juncus
+Lamiaceae
+Lamiales
+Lauraceae
+Laurales
+Liliales
+Malpighiales
+Malvaceae
+Malvales
+Myrtaceae
+Myrtales
+Nectandra
+Oleaceae
+Olearia
+Onagraceae
+Orobanchaceae
+Oxalidaceae
+Oxalidales
+Oxalis
+Pandanales
+Pennisetum
+Phragmites
+Phragmites australis
+Plantaginaceae
+Plantago
+Poa
+Poaceae
+Poales
+Podocarpaceae
+Podocarpus
+Polygonaceae
+Polypodiales
+Primulaceae
+Proteaceae
+Proteales
+Prumnopitys
+Prumnopitys taxifolia
+Pteridophytes
+Quercus
+Quercus  sect. Quercus
+Quercus  subgen. Quercus
+Rosales
+Rubiaceae
+Sapindales
+Saxifraga
+Saxifragaceae
+Saxifragales
+Solanales
+Triticum
+Triticum aestivum
+Veronica
+Violaceae
+Zingiberales

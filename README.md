@@ -64,39 +64,7 @@ count(distinct(plant taxon names in Dataset B))
 count(distinct(plant taxon names in both dataset A and dataset B))
 ```
 
-dataset/dataset | maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl 
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | ---
-maarjam| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-fred| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-globalfungi| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-globalamfungi| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-maps| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-mycodb| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-mycoportal| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-usda-fungus-host| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-unite| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-policelli2023| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-pdd| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-icmp| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-limbu2025| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-fungaltraits| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-austraits| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-funfun| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-souza2025| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-stewartBisot2026| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-usda-ars-culture-collection-nrrl| maarjam | fred | globalfungi | globalamfungi | maps | mycodb | mycoportal | usda-fungus-host | unite | policelli2023 | pdd | icmp | limbu2025 | fungaltraits | austraits | funfun | souza2025 | stewartBisot2026 | usda-ars-culture-collection-nrrl
-
-
-
-
-maarjam | - | [1,280](output/maarjam-uniq.txt) ∩ [6,927](output/fred-uniq.txt) = [680](output/maarjam-intersect-fred.txt) | [1,217](output/maarjam-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [915](output/maarjam-intersect-mycoportal.txt) | [1,280](output/maarjam-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [1,020](output/maarjam-intersect-usda-fungus-host.txt)
-fred | - | - | [6,927](output/fred-uniq.txt) ∩ [33,273](output/mycoportal-uniq.txt) = [5,062](output/fred-intersect-mycoportal.txt) | [6,927](output/fred-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [5,881](output/fred-intersect-usda-fungus-host.txt)
-mycoportal | - | - | - | [33,273](output/mycoportal-uniq.txt) ∩ [48,418](output/usda-fungus-host-uniq.txt) = [27,474](output/mycoportal-intersect-usda-fungus-host.txt)
-usda-fungus-host | - | - | - | -
-
 ## Pairwise Overlap Plant Hostname 
-
 
 A | count(A) | B | count(B) | A ∩ B | count(A ∩ B)
 --- | --- | --- | --- | --- | ---
