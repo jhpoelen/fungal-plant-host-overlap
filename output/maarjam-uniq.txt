@@ -155,6 +155,8 @@ Asphodelus
 Asphodelus aestivus
 Asphodelus ramosus
 Aspleniaceae
+Asplenium
+Asplenium ruta-muraria
 Asteraceae
 Asterales
 Asterella
@@ -507,6 +509,7 @@ Galium × jarynae
 Galium verum
 Genista
 Genista cinerea
+Genista cinerea  subsp. cinerea
 Gentianaceae
 Gentianales
 Geraniaceae
@@ -543,7 +546,6 @@ Grammitis ascensionensis
 Greenwayodendron
 Greenwayodendron suaveolens
 Guarea
-Guarea kunthiana
 Guarea pterorhachis
 Gymnosiphon
 Gymnosiphon capitatus
@@ -602,6 +604,8 @@ Huperzia hypogaea
 Huperzia tetragona
 Huperzia urbanii
 Huperzioideae
+Hyacinthoides
+Hyacinthoides non-scripta
 Hyeronima
 Hyparrhenia
 Hyparrhenia dichroa
@@ -622,6 +626,7 @@ Inula multicaulis
 Inula salicina
 Ipomoea
 Ipomoea nil
+Ipomoea pes-caprae
 Ixeris
 Ixeris repens
 Jacobaea
@@ -800,6 +805,10 @@ Notothyladales
 Notothylas
 Notothylas javanica
 Notothylas orbicularis
+Olea
+Oleaceae
+Olea europaea
+Olea europaea  subsp. europaea
 Olearia
 Onagraceae
 Ononis
@@ -940,6 +949,7 @@ Polygala comosa
 Polygala myrtifolia
 Polygala rupestris
 Polygala serpyllifolia
+Polygala vulgaris subsp. vulgaris
 Polygonaceae
 Polygonatum
 Polygonatum glaberrimum
@@ -976,6 +986,7 @@ Pseudoselago serrata
 Psilotaceae
 Psilotales
 Psilotum
+Psilotum nudum
 Psychotria
 Psychotria urbaniana
 Pteridaceae
@@ -1026,7 +1037,10 @@ Rubia
 Rubiaceae
 Rubia peregrina
 Rubus
+Rubus fruticosus
 Rubus saxatilis
+Rubus vestitus
+Rubus vulgaris
 Rumex
 Rumex acetosella
 Ruscus

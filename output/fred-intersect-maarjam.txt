@@ -89,6 +89,8 @@ Asparagaceae
 Asparagales
 Asphodelaceae
 Aspleniaceae
+Asplenium
+Asplenium ruta-muraria
 Asteraceae
 Asterales
 Astragalus
@@ -414,6 +416,9 @@ Myrtales
 Nectandra
 Nicotiana
 Noccaea
+Olea
+Oleaceae
+Olea europaea
 Olearia
 Onagraceae
 Ophioglossaceae

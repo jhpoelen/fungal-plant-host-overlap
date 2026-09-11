@@ -243,6 +243,8 @@ Aleurites moluccanus
 Alhagi
 Alhagi pseudalhagi
 Alhagi sparsifolia
+Alisma
+Alisma plantago-aquatica
 Alismataceae
 Alismatales
 Allardia
@@ -464,6 +466,7 @@ Arctostaphylos glandulosa
 Arctostaphylos glauca
 Arctostaphylos patula
 Arctostaphylos pungens
+Arctostaphylos uva-ursi
 Arctotheca
 Arctotheca calendula
 Arctous
@@ -590,6 +593,7 @@ Aspidosperma tomentosum
 Aspleniaceae
 Asplenium
 Asplenium bulbiferum
+Asplenium ruta-muraria
 Asplenium scolopendrium
 Asplenium septentrionale
 Asplenium trichomanes
@@ -654,9 +658,11 @@ Asyneuma
 Asyneuma campanuloides
 Asyneuma canescens
 Atalaya
+Atherospermataceae
 Athyriaceae
 Athyrium
 Athyrium delavayi
+Athyrium filix-femina
 Athyrium spinulosum
 Atractylis
 Atractylis humilis
@@ -959,6 +965,7 @@ Callicarpa
 Callicarpa americana
 Calligonum
 Calligonum aphyllum
+Calligonum caput-medusae
 Calligonum leucocladum
 Calligonum mongolicum
 Calligonum murex
@@ -1439,6 +1446,7 @@ Cirsium altissimum
 Cirsium arvense
 Cirsium heterophyllum
 Cirsium oleraceum
+Cirsium rhizocephalum
 Cirsium simplex
 Cirsium wheeleri
 Cistaceae
@@ -1987,6 +1995,7 @@ Dryopteridoideae
 Dryopteris
 Dryopteris carthusiana
 Dryopteris erythrosora
+Dryopteris filix-mas
 Dryopteris sparsa
 Drypetes
 Drypetes alba
@@ -2014,6 +2023,7 @@ Echinacea purpurea
 Echinaria
 Echinaria capitata
 Echinochloa
+Echinochloa crus-galli
 Echinochloa frumentacea
 Echinochloa polystachya
 Echinodorus
@@ -2708,6 +2718,7 @@ Helianthus occidentalis
 Helianthus pauciflorus
 Helianthus pauciflorus  subsp. pauciflorus
 Helianthus petiolaris
+Helianthus praecox
 Helianthus radula
 Helianthus salicifolius
 Helianthus strumosus
@@ -3130,6 +3141,8 @@ Launaea
 Launaea arborescens
 Lauraceae
 Laurales
+Laurelia
+Laurelia novae-zelandiae
 Lavandula
 Lavandula bipinnata
 Lavandula multifida
@@ -3296,7 +3309,6 @@ Lomelosia caucasica
 Lonchocarpus
 Lonchocarpus capassa
 Lonicera
-Lonicera bella
 Lonicera caerulea
 Lonicera canadensis
 Lonicera caprifolium
@@ -3462,6 +3474,7 @@ Markhamia obtusifolia
 Marquesia
 Marrubium
 Marrubium leonuroides
+Marsileaceae
 Martyniaceae
 Matthiola
 Matthiola incana
@@ -3510,6 +3523,7 @@ Mentha
 Mentha aquatica
 Mentha arvensis
 Mentha longifolia
+Mentha × piperita
 Mentzelia
 Menyanthaceae
 Menyanthes
@@ -4102,6 +4116,7 @@ Pilosella caespitosa  subsp. caespitosa
 Pilosella echioides
 Pilosella officinarum
 Pilosella scouleri
+Pilularia
 Pimelea
 Pimpinella
 Pimpinella rhodantha
@@ -4524,6 +4539,7 @@ Pyrola minor
 Pyrola rotundifolia
 Pyroloidaea
 Pyrrocoma
+Pyrrocoma racemosa
 Pyrus
 Pyrus betulifolia
 Pyrus bourgaeana
@@ -4732,6 +4748,7 @@ Ribes aureum
 Ribes multiflorum
 Ribes nigrum
 Ribes spicatum
+Ribes uva-crispa
 Richteria
 Richteria pyrethroides
 Rindera
@@ -4890,6 +4907,7 @@ Salvia reptans
 Salvia splendens
 Salvia verticillata
 Salvia virgata
+Salviniales
 Sambucus
 Sambucus canadensis
 Sambucus nigra
@@ -5063,6 +5081,7 @@ Seriphidium caerulescens  subsp. gallicum
 Seriphidium cinum
 Seriphidium ferganense
 Seriphidium maritimum
+Seriphidium terrae-albae
 Seriphidium transiliense
 Seriphidium turanicum
 Serratula
@@ -5121,6 +5140,7 @@ Silene chalcedonica
 Silene chlorantha
 Silene compacta
 Silene dioica
+Silene flos-cuculi
 Silene gallica
 Silene latifolia
 Silene nutans
@@ -5353,6 +5373,7 @@ Symphyotrichum ericoides
 Symphyotrichum falcatum
 Symphyotrichum laeve
 Symphyotrichum lanceolatum
+Symphyotrichum novae-angliae
 Symphyotrichum novi-belgii
 Symphyotrichum oblongifolium
 Symphyotrichum oolentangiense
@@ -5379,6 +5400,8 @@ Tabebuia
 Tabebuia aurea
 Tabebuia rosea
 Tabernaemontana
+Taeniatherum
+Taeniatherum caput-medusae
 Tagetes
 Tagetes erecta
 Tagetes minuta
@@ -5656,6 +5679,7 @@ Vaccinium oxycoccos
 Vaccinium pallidum
 Vaccinium stenophyllum
 Vaccinium uliginosum
+Vaccinium vitis-idaea
 Vachellia
 Vachellia amythethophylla
 Vachellia eburnea
@@ -5708,6 +5732,7 @@ Vernonia
 Vernonia baldwinii
 Vernonia fasciculata
 Veronica
+Veronica anagallis-aquatica
 Veronica beccabunga
 Veronica biloba
 Veronica campylopoda

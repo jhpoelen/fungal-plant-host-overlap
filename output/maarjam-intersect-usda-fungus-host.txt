@@ -123,6 +123,8 @@ Asphodelus
 Asphodelus aestivus
 Asphodelus ramosus
 Aspleniaceae
+Asplenium
+Asplenium ruta-muraria
 Asteraceae
 Asterales
 Astragalus
@@ -474,6 +476,8 @@ Hordeum
 Hordeum vulgare
 Huperzia
 Huperzioideae
+Hyacinthoides
+Hyacinthoides non-scripta
 Hyparrhenia
 Hyparrhenia dichroa
 Hypericaceae
@@ -491,6 +495,7 @@ Inula multicaulis
 Inula salicina
 Ipomoea
 Ipomoea nil
+Ipomoea pes-caprae
 Ixeris
 Ixeris repens
 Jacobaea
@@ -622,6 +627,10 @@ Nicotiana tabacum
 Noccaea
 Noccaea caerulescens
 Noccaea praecox
+Olea
+Oleaceae
+Olea europaea
+Olea europaea  subsp. europaea
 Olearia
 Onagraceae
 Ononis
@@ -768,6 +777,7 @@ Prunus persica
 Psilotaceae
 Psilotales
 Psilotum
+Psilotum nudum
 Psychotria
 Pteridaceae
 Pteridoideae
@@ -812,7 +822,10 @@ Rubia
 Rubiaceae
 Rubia peregrina
 Rubus
+Rubus fruticosus
 Rubus saxatilis
+Rubus vestitus
+Rubus vulgaris
 Rumex
 Rumex acetosella
 Ruscus
